@@ -38,7 +38,7 @@ I converted the text into character indices and split it into 90% training data 
 - Framework: PyTorch
 - Batch size: 64
 - Context length: 256
-- Embedding dimension: 34
+- Embedding dimension: 48
 - Attention heads: 6
 - Transformer blocks: 6
 - Learning rate: 0.0003
